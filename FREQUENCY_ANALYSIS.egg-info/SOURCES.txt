@@ -1,0 +1,6 @@
+README.md
+setup.py
+FREQUENCY_ANALYSIS.egg-info/PKG-INFO
+FREQUENCY_ANALYSIS.egg-info/SOURCES.txt
+FREQUENCY_ANALYSIS.egg-info/dependency_links.txt
+FREQUENCY_ANALYSIS.egg-info/top_level.txt
